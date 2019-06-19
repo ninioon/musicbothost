@@ -1,4 +1,4 @@
-const Discord = require('discord.py');
+const Discord = require('discord.js');
 const client = new Discord.CLient();
 
 client.on('ready', () => {
